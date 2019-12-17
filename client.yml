@@ -4,10 +4,10 @@ eureka:
       defaultZone: http://127.0.0.1:8761/eureka/
 spring:
   application:
-    name: configserver_9999
+    name: DIS_8088
 server:
-  port: 9999
+  port: 8088
 
 userinfo:
   password: 123456789
-  username: jilinwula
+  username: huangfazhou
