@@ -6,7 +6,7 @@ spring:
   application:
     name: configserver_9999
 server:
-  port: 99990
+  port: 9999
 
 userinfo:
   password: 123456789
