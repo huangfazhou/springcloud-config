@@ -6,5 +6,5 @@ spring:
   application:
     name: configserver_9999
 server:
-  port: 9999
+  port: 99990
 #测试修改
